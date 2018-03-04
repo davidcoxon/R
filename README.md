@@ -42,5 +42,4 @@ There is a Data Science group starting in the North East in 2018, so its possibl
 [John Hopkins](https://www.coursera.org/specializations/jhu-data-science)
 
 ## other repositories by David Coxon
-
-### You might also be interested in the python projects  [repository ](https://github.com/davidcoxon/Python/tree/master/Projects). 
+You might also be interested in the python projects  [repository ](https://github.com/davidcoxon/Python/tree/master/Projects). 
